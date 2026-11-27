@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA — Tanques de Ferrocemento y Piscicultura en Paraguay",
+  "description": "Soluciones para el agro paraguayo: construcción de tanques circulares de ferrocemento para tilapia, instalación de geomembrana, mentoría técnica y cursos de piscicultura en todo Paraguay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
